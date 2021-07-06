@@ -1,5 +1,5 @@
 # COVID19-Tracker
-It is a one page application made with Reactjs, Material UI, Chartjs etc
+It is an one page application made with Reactjs, Material UI, Chartjs etc
 which shows you the current status of COVID19 across all countries.
 You can also visualize data on charts.
 
